@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">LoginApp</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="login_button">Login</string>
+    <string name="hint_age">Age</string>
+    <string name="warning">Number of Attempts Remaining: </string>
+    <string name="signUp_text">New User? Sign Up!</string>
+    <string name="singUp_hintUsername">Username</string>
+    <string name="signUp_hintEmail">Email Address</string>
+    <string name="signUp_hintPassword">Password</string>
+    <string name="signUP_button">Sign Up</string>
+    <string name="login_Text">Already have an account? Login!</string>
+    <string name="welcome">Welcome To Home Activity</string>
+    <string name="btn_logout">Logout</string>
+    <string name="profile_Menu">Profile</string>
+    <string name="refresh">Refresh</string>
+    <string name="forgot_pWord">Forgot Password?</string>
+    <string name="reset">Reset Password</string>
+    <string name="profile_name">Name</string>
+    <string name="profile_age">Age</string>
+    <string name="profile_email">Email</string>
+    <string name="profile_edit">Edit</string>
+    <string name="updateProfile">Update</string>
+    <string name="updatePassword">Enter New Password</string>
+</resources>
